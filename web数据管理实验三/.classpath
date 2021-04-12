@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/个人安排/第六学期/Web数据管理/jars/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第六学期/Web数据管理/jars/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第六学期/Web数据管理/jars/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第六学期/Web数据管理/jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第六学期/Web数据管理/jars/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第六学期/Web数据管理/jars/json-lib-1.1-jdk13.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第六学期/Web数据管理/jars/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/mongo-java-driver-3.4.2.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/bson-3.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/mongodb-driver-core-3.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/个人安排/第五学期/非关系型数据库/导入包/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
