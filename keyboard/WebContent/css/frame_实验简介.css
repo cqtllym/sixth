@@ -1,0 +1,13 @@
+h3{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+body div{
+    margin-left: 30px;
+    padding-left: 50px;
+    width: 600px;
+    line-height: 50px;
+    text-indent: 2em;
+}
